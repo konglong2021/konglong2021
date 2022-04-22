@@ -1,1 +1,1 @@
-"# konglong2021"  git init git add README.md git commit -m "first commit" git branch -M main git remote add origin https://github.com/konglong2021/konglong2021.git git push -u origin main
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=konglong2021)](https://github.com/anuraghazra/github-readme-stats)
